@@ -35,8 +35,8 @@ This project is a classic Minesweeper game in a CLI (Command Line Interface). It
 - Game save files are stored at 'data/minesweepersave.txt'
 
 ## Team Members
-- Aditya Unnithan 
-- Aryan Mahendra Sawant
-- Bayyapu Adhiraj Reddy
+- Aditya Unnithan : board.py
+- Aryan Mahendra Sawant : README.md and assisted in board.py
+- Bayyapu Adhiraj Reddy : main.py
 - Bhargav Kumar Gudipati : game_logic.py and assisted in main.py
 - Kumar Sanket : file_manager.py
